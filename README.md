@@ -22,10 +22,10 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-GIF ON Files
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHhsZGM2OThmbGR5Nnl4enNwMmZrcHhvc2s0N2thd3RleWZhd2xqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JaXxYpQf4bYwKgWYYn/giphy.gif
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with GIPHY
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
