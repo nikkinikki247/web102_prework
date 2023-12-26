@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - SMC
 
-Submitted by: **Your Name Here**
+Submitted by: Nicole Iwuala
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+SMC is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: 4 hours spent in total
 
 ## Required Features
 
@@ -17,13 +17,12 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] Added an outline appearance to the buttons so that when they are hovered over, the user knows they are clickable
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+GIF ON Files
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -35,10 +34,11 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+I had some trouble with using proper syntax for object property names and their properties.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 Nicole Iwuala
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
